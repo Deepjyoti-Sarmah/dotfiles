@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "vim.commandLineModeKeyBindingsNonRecursive": [],
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.lineNumbers": "relative",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "update.showReleaseNotes": false,
+    "workbench.activityBar.location": "hidden",
+}
