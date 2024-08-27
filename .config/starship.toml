@@ -10,7 +10,7 @@ error_symbol = "[[󰄛](red) ❯](maroon)"
 vimcmd_symbol = "[󰄛 ❮](subtext1)"
 
 [git_branch]
-style = "bold mauve"
+style = "bold pink"
 symbol = " "
 
 [directory]
