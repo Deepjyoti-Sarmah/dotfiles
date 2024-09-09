@@ -8,8 +8,8 @@
     "editor.minimap.enabled": false,
     "window.menuBarVisibility": "toggle",
     "update.showReleaseNotes": false,
-    "workbench.activityBar.location": "hidden",
     "editor.wordWrap": "on",
     "editor.stickyScroll.enabled": false,
     "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
 }
