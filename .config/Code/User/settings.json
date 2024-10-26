@@ -12,4 +12,5 @@
     "editor.stickyScroll.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
+    "makefile.configureOnOpen": true,
 }

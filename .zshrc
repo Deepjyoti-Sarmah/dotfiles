@@ -138,3 +138,11 @@ export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
 export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$PATH:$HOME/.foundry/bin"
+
+export PATH="/home/deepjyoti/.local/share/solana/install/active_release/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
+
+eval "$(direnv hook zsh)"
+export PATH="$PATH:$(go env GOPATH)/bin"
