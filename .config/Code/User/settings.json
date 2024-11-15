@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono'",
     "vim.commandLineModeKeyBindingsNonRecursive": [],
     "workbench.colorTheme": "Catppuccin Mocha",
     "editor.lineNumbers": "relative",
@@ -11,6 +11,14 @@
     "editor.wordWrap": "on",
     "editor.stickyScroll.enabled": false,
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "hidden",
     "makefile.configureOnOpen": true,
+    "editor.fontSize": 12,
+    "debug.console.fontSize": 12,
+    "scm.inputFontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "chat.editor.fontSize": 12,
+    "markdown.preview.fontSize": 12,
+    "extensions.ignoreRecommendations": true,
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
 }
