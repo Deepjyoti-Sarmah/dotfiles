@@ -19,6 +19,6 @@
     "chat.editor.fontSize": 12,
     "markdown.preview.fontSize": 12,
     "extensions.ignoreRecommendations": true,
-    "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "hidden",
 }

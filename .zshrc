@@ -136,13 +136,12 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+export PATH="$PATH:$(go env GOPATH)/bin"
 
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="$PATH:$HOME/.foundry/bin"
-
 export PATH="/home/deepjyoti/.local/share/solana/install/active_release/bin:$PATH"
-export PATH="$HOME/.cargo/bin:$PATH"
-export PATH="$HOME/.cargo/bin:$PATH"
 
 eval "$(direnv hook zsh)"
-export PATH="$PATH:$(go env GOPATH)/bin"
+
+source <(kubectl completion zsh)
