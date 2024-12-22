@@ -20,5 +20,7 @@
     "markdown.preview.fontSize": 12,
     "extensions.ignoreRecommendations": true,
     "workbench.statusBar.visible": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "workbench.activityBar.location": "hidden",
 }
